@@ -4,7 +4,7 @@ This analysis is described in a paper soon to be submitted. The code and data ar
 
 Please contact Lex Comber [a.comber@leeds.ac.uk](a.comber@leeds.ac.uk) if you have any questions.
 
-## Paper title: The Impact of Varying Semantics in Spatial Statistics: the example of regression, LASSO, GWR and GW-LASSO
+## Paper title: The forgotten semantics of regression modelling in Geography
 Alexis Comber<sup>1</sup>, Paul Harris<sup>2</sup>, Yihe Lü <sup>3</sup>, Lianhai Wu <sup>2</sup> and Pete Atkinson<sup>3</sup> 
 
 <sup>1</sup>School of Geography, University of Leeds, Leeds, UK LS2 9JT\
