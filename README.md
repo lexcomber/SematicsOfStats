@@ -1,6 +1,6 @@
 # Sematics of Statistical models
 
-This analysis is described in a paper soon to be submitted. The code and data are all described in the file `Semantics_code_data.R`. 
+This analysis is described in a paper soon to be submitted to *Geographical Analysis*. The code is in the file `Semantics_code_data_git.R` and this loads data from this repository.
 
 Please contact Lex Comber [a.comber@leeds.ac.uk](a.comber@leeds.ac.uk) if you have any questions.
 
