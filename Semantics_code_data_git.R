@@ -1,6 +1,11 @@
 #### Part 2: Descriptive statistics and plots
 
-#RS imagery # ls5_20030924_30m – cloud free and nearest to 2007# ls5_20110930_30m – cloud free and nearest to 2012# .img files created and clipped using Norfolk_clip.shp# converted to IDRISI raster files in rs_data folder# 6 bands for each date
+#RS imagery
+# ls5_20030924_30m – cloud free and nearest to 2007
+# ls5_20110930_30m – cloud free and nearest to 2012
+# .img files created and clipped using Norfolk_clip.shp
+# converted to IDRISI raster files in rs_data folder
+# 6 bands for each date
 # from https://landsat.usgs.gov/what-are-band-designations-landsat-satellites
 # Band 1 - Blue	0.45-0.52	30
 # Band 2 - Green	0.52-0.60	30
