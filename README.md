@@ -5,7 +5,7 @@ This analysis is described in a paper submitted to *Geographical Analysis* in Oc
 Please contact Lex Comber [a.comber@leeds.ac.uk](a.comber@leeds.ac.uk) if you have any questions.
 
 ## Paper title: The forgotten semantics of regression modelling in Geography
-Alexis Comber<sup>1</sup>, Paul Harris<sup>2</sup>, Yihe Lü <sup>3</sup>, Lianhai Wu <sup>2</sup> and Pete Atkinson<sup>4</sup> 
+Alexis Comber<sup>1</sup>, Paul Harris<sup>2</sup>, Yihe Lü<sup>3</sup>, Lianhai Wu<sup>2</sup> and Pete Atkinson<sup>4</sup> 
 
 <sup>1</sup>School of Geography, University of Leeds, Leeds, UK LS2 9JT\
 <sup>2</sup>Rothamsted Research, North Wyke, Okehampton, Devon, UK EX20 2SB\
