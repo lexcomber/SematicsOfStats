@@ -1,8 +1,8 @@
 # Sematics of Statistical models
 
-This analysis is described in a paper accepted by *Geographical Analysis* in March 2019. The code is in the file `Semantics_code_data_git.R` and this loads data from this repository.
+This repository contains data and code to reproduce the analysis described in a paper published in *Geographical Analysis* in May 2019 (https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12199). 
 
-Please contact Lex Comber [a.comber@leeds.ac.uk](a.comber@leeds.ac.uk) if you have any questions.
+The code is in the file `Semantics_code_data_git.R` and this loads data from this repository. Please contact Lex Comber [a.comber@leeds.ac.uk](a.comber@leeds.ac.uk) if you have any questions.
 
 ## Paper title: The forgotten semantics of regression modelling in Geography
 Alexis Comber<sup>1</sup>, Paul Harris<sup>2</sup>, Yihe Lü<sup>3</sup>, Lianhai Wu<sup>2</sup> and Pete Atkinson<sup>4</sup> 
